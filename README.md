@@ -1,1 +1,2 @@
-# Salary-Prediction
+# Mathematics for machine learning specialization
+
